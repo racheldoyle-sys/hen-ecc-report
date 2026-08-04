@@ -278,6 +278,10 @@ var simplemaps_namap_mapdata={
       color: "#3076bc",
       lat: 34.772371,
       lng: -82.360226,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: "",
       url: "https://www.eventbrite.com/e/captain-mac-fitts-memorial-training-weekend-tickets-1977144033026"
     },
     "1": {
@@ -285,80 +289,92 @@ var simplemaps_namap_mapdata={
       color: "#3076bc",
       lat: 30.16197,
       lng: -95.462952,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: "",
       url: "https://joeyd-tx.com/"
     },
     "2": {
       name: "Engine Crew Clinic Northwest Fire District",
       color: "#3076bc",
       lat: 32.452131,
-      lng: -111.212627
+      lng: -111.212627,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
     "3": {
       name: "Engine Crew Clinic Fayetteville Technical Community College",
       color: "#3076bc",
       lat: 35.068926,
-      lng: -78.927472
+      lng: -78.927472,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
     "4": {
       name: "Engine Crew Clinic Fairfield Regional Fire School",
       color: "#3076bc",
       lat: 41.128522,
-      lng: -73.250853
+      lng: -73.250853,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
     "5": {
       name: "Engine Crew Clinic Bowling Green Fire Academy",
       color: "#3076bc",
       lat: 37.258475,
-      lng: -87.204797
+      lng: -87.204797,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
     "6": {
       name: "Engine Crew Clinic Firemanship 2026",
       color: "#3076bc",
       lat: 41.757722,
-      lng: -88.314654
+      lng: -88.314654,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
     "7": {
       name: "Engine Crew Clinic West Licking Fire Department",
       color: "#3076bc",
       lat: 39.95856,
-      lng: -82.626398
+      lng: -82.626398,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
     "8": {
-      name: "Engine Crew Clinic Medford Fire Department",
-      color: "#3076bc",
-      lat: 42.323011,
-      lng: -122.87674
-    },
-    "9": {
       name: "Engine Crew Clinic Davenport FD Training Center",
       color: "#3076bc",
       lat: 41.568418,
-      lng: -90.556348
+      lng: -90.556348,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
-    "10": {
-      name: "Engine Crew Clinic Seattle WA - Fire Nuggets",
-      color: "#3cb54a",
-      lat: 47.606139,
-      lng: -122.332848
-    },
-    "11": {
-      name: "Engine Crew Clinic Redding CA - Fire Nuggets",
-      color: "#3cb54a",
-      lat: 40.575413,
-      lng: -122.383612
-    },
-    "12": {
+    "9": {
       name: "Engine Crew Clinic Ancient City Fire Expo",
       color: "#3076bc",
       lat: 29.89047,
       lng: -81.319053,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: "",
       url: "https://ancientcityfireexpo.com/"
-    },
-    "13": {
-      name: "Engine Crew Clinic San Diego CA - Fire Nuggets",
-      color: "#3cb54a",
-      lat: 32.715738,
-      lng: -117.161084
     }
   },
   labels: {
