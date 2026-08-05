@@ -366,6 +366,16 @@ var simplemaps_namap_mapdata={
       state: ""
     },
     "9": {
+      name: "Ancient City Fire Expo",
+      color: "#3076bc",
+      lat: 29.875792,
+      lng: -81.282959,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
+    },
+    "10": {
       name: "Engine Crew Clinic Ancient City Fire Expo",
       color: "#3076bc",
       lat: 29.89047,
